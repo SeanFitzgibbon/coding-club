@@ -2,9 +2,26 @@
 ---
 # Coding and Robotics Club
 
-This repository contains the materials for the Yr 5/6 Coding and Robotics Club.
+This repository contains materials and resources for the Yr 5/6 Coding and Robotics Club.
 
-# Sessions
+The Coding & Robotics Club is an opportunity for Year 5 and 6 children to develop their coding skills in a fun and interactive way.  
+
+We use the awesome BBC micro:bit platform to create a range of projects from a simple flashing heart through to complex robot cars that can drive through obstacle courses.  
+
+## Plan
+
+The rough plan for the initial 10-week program:
+
+Weeks 1-4: Basics of coding using the BBC micro:bit
+Weeks 5-8: Robotics using the Kitronik:move robotic car kit
+Weeks 9-10: Robocup
+
+## Useful links
+
+- https://microbit.org
+- https://makecode.microbit.org
+
+## Sessions
 
 - [Session 1](/coding-club/sessions/01)
 - [Session 2](/coding-club/sessions/02)
