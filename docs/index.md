@@ -12,9 +12,9 @@ We use the awesome BBC micro:bit platform to create a range of projects from a s
 
 The rough plan for the initial 10-week program:
 
-Weeks 1-4: Basics of coding using the BBC micro:bit
-Weeks 5-8: Robotics using the Kitronik:move robotic car kit
-Weeks 9-10: Robocup
+- Weeks 1-4: Basics of coding using the BBC micro:bit
+- Weeks 5-8: Robotics using the Kitronik:move robotic car kit
+- Weeks 9-10: Robocup
 
 ## Useful links
 
