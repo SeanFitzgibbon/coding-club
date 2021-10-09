@@ -18,8 +18,8 @@ Weeks 9-10: Robocup
 
 ## Useful links
 
-- https://microbit.org
-- https://makecode.microbit.org
+- [https://microbit.org](https://microbit.org)
+- [https://makecode.microbit.org](https://makecode.microbit.org)
 
 ## Sessions
 
