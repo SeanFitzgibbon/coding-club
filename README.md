@@ -1,1 +1,1 @@
-# coding-club
+# Coding and Robotics Club
