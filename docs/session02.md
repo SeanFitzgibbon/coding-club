@@ -9,7 +9,7 @@ permalink: /sessions/02
 
 ## Slides
 
-https://docs.google.com/presentation/d/14AQxra3NbUsyzz-y08x4K19MviHBFN3LyIstKVovPck/edit?usp=sharing
+[https://docs.google.com/presentation/d/14AQxra3NbUsyzz-y08x4K19MviHBFN3LyIstKVovPck/edit?usp=sharing](https://docs.google.com/presentation/d/14AQxra3NbUsyzz-y08x4K19MviHBFN3LyIstKVovPck/edit?usp=sharing)
 
 
 ## Offline activities
