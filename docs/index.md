@@ -25,3 +25,5 @@ The rough plan for the initial 10-week program:
 
 - [Session 1](/coding-club/sessions/01)
 - [Session 2](/coding-club/sessions/02)
+- [Session 3](/coding-club/sessions/03)
+- [Session 4](/coding-club/sessions/04)

@@ -7,7 +7,8 @@ permalink: /sessions/02
 
 Develop further understanding of inputs/outputs, as well as events and event-handling.
 
-The plan is to:
+## Schedule
+
 1. 30-40 mins working through `MakeCode` tutorials:
     - `Name Tag`
     - `Smiley Buttons`

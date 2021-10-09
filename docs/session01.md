@@ -5,7 +5,8 @@ permalink: /sessions/01
 
 Welcome and introductory session.
 
-The plan is to:
+## Schedule
+
 1. Establish the goals and values of the club. 
     - Invite the members to contribute to the goals and values
 2. Show demos of using the BBC micro:bit as a robotics platform
