@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 # Coding and Robotics Club
 
