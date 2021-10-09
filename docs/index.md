@@ -23,7 +23,7 @@ The rough plan for the initial 10-week program:
 
 ## Sessions
 
-- [Session 1](/coding-club/sessions/01)
-- [Session 2](/coding-club/sessions/02)
-- [Session 3](/coding-club/sessions/03)
-- [Session 4](/coding-club/sessions/04)
+- [Session 1: Welcome and introductory session](/coding-club/sessions/01) 
+- [Session 2: Inputs/outputs and events](/coding-club/sessions/02)
+- [Session 3: Conditionals and variables](/coding-club/sessions/03)
+- [Session 4: Loops and functions](/coding-club/sessions/04)
