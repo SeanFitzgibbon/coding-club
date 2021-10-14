@@ -54,6 +54,8 @@ Input/Output devices:
 
 ### Events/event-handlers
 
+> We ran out of time to do this activity so it was pushed to the start of session 03.
+
 This is intended to be a whole group activity. 
 
 Get 4 children to volunteer, 1 child to be the micro:bit, and 3 children to be event-handlers (button press, loud noise, shake).
