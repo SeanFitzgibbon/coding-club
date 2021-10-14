@@ -28,6 +28,8 @@ Develop further understanding of inputs/outputs, as well as events and event-han
 
 ### Inputs/outputs
 
+> This activity/game was enjoyed by the yr 5/6 children, but took > 10 mins.
+
 This is intended to be a whole group activity. 
 
 Instructor shows pictures (on screen or printed) of input/output devices and gets the children to classify them as input/output.  Encourage discussion of why.  Also include the devices that are both.
@@ -54,7 +56,11 @@ Input/Output devices:
 
 This is intended to be a whole group activity. 
 
-Get 7 children to volunteer, 3 to be assigned to be events (button press, loud clap, mouse click), 1 child to be the micro:bit, and 2 children to be event-handlers (button press, loud clap).
+Get 4 children to volunteer, 1 child to be the micro:bit, and 3 children to be event-handlers (button press, loud noise, shake).
+
+The event-handlers must decide what task they will do when the are activated (e.g. jump, yell, spin around, do a star jump, mouse click, etc.).  The event-handlers must then register themselves with the micro:bit.
+
+Remaining children to line up as events (e.g. loud noise, shake, button press, sensor dectection) in an event queue.  As each child gets to the front of the queue, they signal their event, and the micro:bit has to instruct an appropriate event-handler who must in turn carry out the task.
 
 Guide children through examples of:
 1. event-handler being registered with micro:bit
@@ -62,4 +68,3 @@ Guide children through examples of:
 3. explain how nothing happens if there is no handler for the event
 
 Opportunity to also explain how programs are sequential.
-
