@@ -22,6 +22,8 @@ Welcome and introductory session.
     - Processor
     - Inputs/Outputs
 
+> We ran out of time (1 hr) to do the activities in step 5. So they were pushed to session 2.
+
 ## Slides
 
 [https://docs.google.com/presentation/d/11G5-_R_1TcttzM26ILhs8VF0Hd-RkhxdJ96Oa4LaB7w/edit?usp=sharing](https://docs.google.com/presentation/d/11G5-_R_1TcttzM26ILhs8VF0Hd-RkhxdJ96Oa4LaB7w/edit?usp=sharing)
