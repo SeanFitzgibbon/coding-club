@@ -32,7 +32,7 @@ Develop further understanding of inputs/outputs, as well as events and event-han
 
 This is intended to be a whole group activity. 
 
-Instructor shows pictures (on screen or printed) of input/output devices and gets the children to classify them as input/output.  Encourage discussion of why.  Also include the devices that are both.
+Instructor shows pictures (on screen or printed; the [slides](https://docs.google.com/presentation/d/14AQxra3NbUsyzz-y08x4K19MviHBFN3LyIstKVovPck/edit?usp=sharing) contain appropriate pictures) of input/output devices and gets the children to classify them as input/output.  Encourage discussion of why.  Also include the devices that are both.
 
 Output devices:
 1. monitor
@@ -60,7 +60,7 @@ This is intended to be a whole group activity.
 
 Get 4 children to volunteer, 1 child to be the micro:bit, and 3 children to be event-handlers (button press, loud noise, shake).
 
-The event-handlers must decide what task they will do when the are activated (e.g. jump, yell, spin around, do a star jump, mouse click, etc.).  The event-handlers must then register themselves with the micro:bit.
+The event-handlers must decide what task/action they will perform when the are activated (e.g. jump, yell, spin around, do a star jump, mouse click, etc.).  The event-handlers must then register themselves with the micro:bit.  The [slides](https://docs.google.com/presentation/d/14AQxra3NbUsyzz-y08x4K19MviHBFN3LyIstKVovPck/edit?usp=sharing) contain images of event handlers with empty tasks/actions which can be used to add the chosen task/action too.  
 
 Remaining children to line up as events (e.g. loud noise, shake, button press, sensor dectection) in an event queue.  As each child gets to the front of the queue, they signal their event, and the micro:bit has to instruct an appropriate event-handler who must in turn carry out the task.
 

@@ -14,15 +14,13 @@ Welcome and introductory session.
     - Introduction to Micro:bit: [https://youtu.be/u2u7UJSRuko](https://youtu.be/u2u7UJSRuko)
     - Input and output devices: [https://youtu.be/NkoS2JXaBuM](https://youtu.be/NkoS2JXaBuM)
     - Micro:bit processor: [https://youtu.be/Y9tk07CzTAA](https://youtu.be/Y9tk07CzTAA)
-2. Introduce the Microsoft MakeCode application and get the children to work through the `Flashing Heart` tutorial.  
+2. Introduce the Microsoft MakeCode application and get the children to work through the `Flashing Heart` tutorial using built-in simulator. 
     - [https://makecode.microbit.org](https://makecode.microbit.org)
 3. Run through safety slide for BBC Micro:bit
 4. Give the children the micro:bit boards and get them to download the flashing heart program to the board.
-5. Pack up boards and laptops, then discuss concepts covered:
+5. Pack up boards and laptops, then (if time) discuss concepts covered:
     - Processor
     - Inputs/Outputs
-
-> We ran out of time (1 hr) to do the activities in step 5. So they were pushed to session 2.
 
 ## Slides
 
