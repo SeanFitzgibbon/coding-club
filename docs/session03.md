@@ -21,6 +21,22 @@ Develop further understanding of conditionals, variables, and memory.
 
 ## Offline activities
 
+### Variables
+
+- Discuss how a variable is a container, like a box, that contains a value
+- A variable has a name.
+- Values can be of different types, depending on the language.
+- Variables can be manipulated without know the value, e.g. add 1 to the `score` when your football team kicks a goal.
+- The are some slides above that visually depict variables as a box, along with `block` and `python` examples.
+
+*Useful resources:*
+
+- https://www.tynker.com/blog/articles/ideas-and-tips/how-to-teach-variables-to-kids/
+- https://junilearning.com/blog/guide/how-to-teach-kids-variables/
+
+> This activity worked well, but it would be good to find a way to make it more interactive.
+
+
 ### Conditionals: the if then else game
 
 Construct an `if` statement of the form, or use block notation:
@@ -56,18 +72,6 @@ else:
 
 Select a student and if they can create a `condition1` that is `False` and a `condition2` that is `True`, then they can have a haribo, or else they have to do a silly dance or sing out loud as appropriate.
 
-### Variables
-
-- Discuss how a variable is a container, like a box, that contains a value
-- A variable has a name.
-- Values can be of different types, depending on the language.
-- Variables can be manipulated without know the value, e.g. add 1 to the `score` when your football team kicks a goal.
-- The are some slides abobe that visually depict variables as a box, along with `block` and `python` examples.
-
-*Useful resources:*
-
-- https://www.tynker.com/blog/articles/ideas-and-tips/how-to-teach-variables-to-kids/
-- https://junilearning.com/blog/guide/how-to-teach-kids-variables/
-
+> This activity seemed quite easy for the yr 5/6 kids.  Perhaps could include some nested if statements...
 
 

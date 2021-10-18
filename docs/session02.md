@@ -70,3 +70,5 @@ Guide children through examples of:
 3. explain how nothing happens if there is no handler for the event
 
 Opportunity to also explain how programs are sequential.
+
+> It was very time-consuming to work through all remaing children as events.  Really only need a few, may 5-7.
