@@ -5,7 +5,8 @@ permalink: /sessions/04
 
 ## Goal
 
-Recap the material from the first few weeks and give the students an opporunity to apply what they have learnt to create a project of their own creation.  If time, introduce loops and functions.  If not time, loops and functions can be introduced during the subsequent robotics weeks.
+Recap the material from the first few weeks and give the students an opportunity to apply what they have learnt to create a project of their own creation.  If time, introduce loops and functions.  
+> If not time, loops and functions can be introduced during the subsequent robotics weeks.
 
 ## Schedule
 
