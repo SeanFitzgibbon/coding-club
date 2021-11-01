@@ -1,7 +1,7 @@
 ---
 permalink: /sessions/04
 ---
-# Session 3
+# Session 4
 
 ## Goal
 
