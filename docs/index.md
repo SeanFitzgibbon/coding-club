@@ -28,5 +28,7 @@ The rough plan for the initial 10-week program:
 - [Session 3: Conditionals and variables](/coding-club/sessions/03)
 - [Session 4: Recap](/coding-club/sessions/04)
 - [Session 5: Driving a car in a straight line!](/coding-club/sessions/05)
-- Sessions 6-8: Robotics
+- [Session 6: Turning](/coding-club/sessions/06)
+- [Session 7: Line following](/coding-club/sessions/07)
+- Session 8: Collision avoidance
 - Sessions 9-10: Robocup

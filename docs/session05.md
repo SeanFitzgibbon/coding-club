@@ -6,12 +6,9 @@ permalink: /sessions/05
 ## Goal
 
 - Introduce robot car platform
-- Learn to operate motors to drive and turn car 
+- Learn to operate motors to drive car 
 - Understand that motors are not precise which will bias steering
-- Understand that motors are operated for a period of time (not distance or angle of turning)
-- Learn to correct steering to drive a straight line of a specified distance
-- Learn to convert distance to time and calibrate for motors
-- Learn to convert angle to time and calibrate for motors
+- Learn to correct steering to drive a straight line
 
 ## Schedule
 
@@ -23,7 +20,6 @@ TBD
 
 ## Useful Sites
 
-- Steering types: https://www.youtube.com/watch?v=F3G0sUz3_Jw
 
 
 
