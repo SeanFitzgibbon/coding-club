@@ -13,7 +13,7 @@ TBD
 
 ## Slides
 
-TBD
+[https://docs.google.com/presentation/d/19CKkCuK8Jtllf6aSV7v8bUZBq2ryQ2skQFbaYmdnEbQ/edit?usp=sharing](https://docs.google.com/presentation/d/19CKkCuK8Jtllf6aSV7v8bUZBq2ryQ2skQFbaYmdnEbQ/edit?usp=sharing)
 
 ## Useful Sites
 
