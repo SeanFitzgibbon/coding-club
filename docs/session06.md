@@ -1,7 +1,7 @@
 ---
-permalink: /sessions/05
+permalink: /sessions/06
 ---
-# Session 5
+# Session 6: Turning
 
 ## Goal
 

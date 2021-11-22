@@ -1,7 +1,7 @@
 ---
 permalink: /sessions/05
 ---
-# Session 5
+# Session 5: Driving in a straight line!
 
 ## Goal
 
