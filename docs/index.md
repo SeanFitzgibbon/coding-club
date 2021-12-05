@@ -30,5 +30,5 @@ The rough plan for the initial 10-week program:
 - [Session 5: Driving a car in a straight line!](/coding-club/sessions/05)
 - [Session 6: Turning](/coding-club/sessions/06)
 - [Session 7: Line following](/coding-club/sessions/07)
-- Session 8: Collision avoidance
+- [Session 8: Collision avoidance](/coding-club/sessions/08)
 - Sessions 9-10: Robocup
