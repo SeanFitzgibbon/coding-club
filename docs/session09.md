@@ -9,7 +9,7 @@ permalink: /sessions/09
 
 ## Schedule
 
-TBD
+[https://docs.google.com/presentation/d/1Fq_fpx08weIUYWE0pRLpOu_tb1w9WAzMQgwg87JGHgs/edit?usp=sharing](https://docs.google.com/presentation/d/1Fq_fpx08weIUYWE0pRLpOu_tb1w9WAzMQgwg87JGHgs/edit?usp=sharing)
 
 ## Slides
 
