@@ -10,7 +10,7 @@ The Coding & Robotics Club is an opportunity for Year 5 and 6 children to develo
 
 - [Session 1 & 2: Astro Pi](/coding-club/sessions/s02e01)
 - Session 3: Guest presentation about high-altitude ballooning
-- [Session 4: Intro to Python](/coding-club/sessions/s02e04)
+- [Session 4-5: Intro to Python](/coding-club/sessions/s02e04)
 
 ## Season 1:
 
